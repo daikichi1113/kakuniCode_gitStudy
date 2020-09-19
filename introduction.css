@@ -1,0 +1,17 @@
+* {
+  color: #666666;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+
+}
